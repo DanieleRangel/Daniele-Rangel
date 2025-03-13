@@ -32,8 +32,8 @@ Sou formada em Gestão de Recursos Humanos e, após uma trajetória de sucesso n
 
  📫 Contato
 
-📧 E-mail: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniele-c-rangel/) 
-🌎 LinkedIn: [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielecrangel@outlook.com)
+📧 E-mail: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:danielecrangel@outlook.com) 
+🌎 LinkedIn: [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/daniele-c-rangel/) 
 
 Vamos conectar? Estou sempre aberta a novas oportunidades e projetos! 🚀
 
