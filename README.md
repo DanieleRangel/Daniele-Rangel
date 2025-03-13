@@ -1,6 +1,6 @@
-<div align="center">
+/*<div align="center">
   <img src="https://link-da-sua-imagem.com/banner.png" alt="Banner Daniele Rangel">
-</div>
+</div>*/
 
 <div align="center">
   
