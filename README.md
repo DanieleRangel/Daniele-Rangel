@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://link-da-sua-imagem.com/banner.png" alt="Banner Daniele Rangel">
+</div>
+
+<div align="center">
   
  Olá! Eu sou a Daniele Rangel 👋
 
@@ -27,6 +31,14 @@ Sou formada em Gestão de Recursos Humanos e, após uma trajetória de sucesso n
 🔹 [**Projeto Conta Bancária**](https://github.com/DanieleRangel/conta-bancaria) - Simulação de operações bancárias com Java e Spring Boot.  
 🔹 [**Blog Pessoal**](https://github.com/DanieleRangel/blog-pessoal) - Plataforma desenvolvida com React e TypeScript.  
 🔹 [**Aplicativo de Carona**](https://github.com/DanieleRangel/app-carona) - Aplicação para conectar motoristas e passageiros.  
+
+
+
+📈 Estatísticas do GitHub  
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DanieleRangel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleRangel&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 
 
